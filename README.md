@@ -13,3 +13,12 @@ this a res to record my daily routine
 18点看比赛,看完比赛准备睡觉 |
 | 李四   | 30   | 设计师 |
 | 王五   | 28   | 教师   |
+
+
+
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
