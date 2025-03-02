@@ -1,4 +1,16 @@
-this a res to record my daily routine
+## <center>Projects Undertaken
+
+|  |Project Title        | Description                            | Framework     |  Comments | |
+|---|:----------------------:|:---------------------------------------------:|:---------------:|----------:|----------|
+| 1 | LunaNet3D | 3D medical image analysis for lung nodule detection using the LUNA16 dataset | PyTorch | Working on data preprocessing, transformations, and visualizations |🟢|
+| 2 | Road Sign Classifier | Multiclass classification of road sign images | PyTorch | Building training and tracking pipelines from scratch |🟠|
+| 3 | Human Action Recognition | Video-based multiclass classification of human actions | TensorFlow | In Progress: training baseline models |🟠|
+
+*🟠 : On Pause
+🟢 : In Progress
+🟣 : Complete*
+<br/><br/>
+
 
 | Day   | Date      | Task Description   | Tags   |
 |-------|-----------|---------------------|--------|
