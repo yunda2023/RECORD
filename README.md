@@ -2,9 +2,9 @@
 
 |  |Project Title        | Description                            | Framework     |  Comments | |
 |---|:----------------------:|:---------------------------------------------:|:---------------:|----------:|----------|
-| 1 | LunaNet3D | 3D medical image analysis for lung nodule detection using the LUNA16 dataset | PyTorch | Working on data preprocessing, transformations, and visualizations |🟢|
-| 2 | Road Sign Classifier | Multiclass classification of road sign images | PyTorch | Building training and tracking pipelines from scratch |🟠|
-| 3 | Human Action Recognition | Video-based multiclass classification of human actions | TensorFlow | In Progress: training baseline models |🟠|
+| 1 | N2 | An important certificates of Janpanese| PyTorch | W |🟢|
+| 2 | |  |  |  |🟠|
+| 3 | | |  | |🟠|
 
 *🟠 : On Pause
 🟢 : In Progress
