@@ -2,9 +2,9 @@
 
 |  |Project Title        | Description                            | Framework     |  Comments | |
 |---|:----------------------:|:---------------------------------------------:|:---------------:|----------:|----------|
-| 1 | N2 | An important certificates of Janpanese| PyTorch | W |🟢|
-| 2 | |  |  |  |🟠|
-| 3 | | |  | |🟠|
+| 1 | N2 | An important certification of Janpanese|  |  |🟢|
+| 2 | 51SCM|  |  |  |🟠|
+| 3 | STM32| |  | |🟠|
 
 *🟠 : On Pause
 🟢 : In Progress
