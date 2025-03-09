@@ -5,6 +5,8 @@
 | 1 | N2 | An important certification of Janpanese|  |  |🟢|
 | 2 | 51SCM|  |  |  |🟠|
 | 3 | STM32| |  | |🟠|
+|4| 7月小米/蔚来/抖音/大众/美团/B站 实习|
+|5| 3个月集中学习完成term4的所有课程，问学长，问老师 |
 
 *🟠 : On Pause
 🟢 : In Progress
@@ -14,6 +16,8 @@
 
 | Day   | Date      | Task Description   | Tags   |
 |-------|-----------|---------------------|--------|
+|8|2025-3-9|做规划|
+|7|2025-3-8| 打游戏|
 |6|2025-3-7| 昨晚最终的决定是，四个目标同时抓。保研（高GPA）+CS(AI)的学习+LOL大师+科研竞赛|
 |5|2025-3-6| decide what to do in the next term .find if you want to get push qualification and high gpa .|
 |4|2025-3-5| fixing picture <br> learn computer design competition <br> 研究日本、韩国的经济历史|
