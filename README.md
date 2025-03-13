@@ -15,7 +15,7 @@
 <br/><br/>
 
 
-| Day   | Date      | Task Description   | Tags   |
+| Day   | Date      | Task Description   |    actual description|
 |-------|-----------|---------------------|--------|
 |12|2025-3-13|放弃冲击钻石，放弃LOL游戏 <br> ppt视频+工程经济课后作业本+自我总结发言
 |11|2025-3-12|游戏|
