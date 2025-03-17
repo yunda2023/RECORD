@@ -1,8 +1,13 @@
+🟠 : On Pause <br>
+🟢 : In Progress <br>
+🟣 : Complete <br>
+⚫ : Abandon <br>
+<br/><br/>
 ## <center>   Annual Plan
 
-
+<br>
 ## <center>  Q2(4-7)   Plan
-
+<br>
 |  |Project Title        | Description                      | Tags|
 |---|:----------------------:|:---------------------------------------------:|----------|
 | 1 | N2 | An important certification of Janpanese|  |  |🟢|
@@ -13,11 +18,7 @@
 |6| 把关项目的所有细节：完成的具体步骤、具体的各个技术||🟢|
 |7|进入hfut-lion实验室||🟢|
 
-🟠 : On Pause <br>
-🟢 : In Progress <br>
-🟣 : Complete <br>
-⚫ : Abandon <br>
-<br/><br/>
+
 
 
 
