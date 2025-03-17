@@ -31,6 +31,9 @@
 
 | Day   | Date      | Task Description   |  Tags | Action Description|
 |-------|-----------|---------------------|--------|----|
+|20|2025-3-21|整理Flomo|🟢|
+|19|2025-3-20|整理Flomo|🟢|
+|18|2025-3-19|整理Notion|🟢|
 |17|2025-3-18|整理tech article ,prothink , ai web group|🟢|
 |16|2025-3-17|整理CS WORK 网络安全 WEB GROUP|🟢|
 |15|2025-3-16|
