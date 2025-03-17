@@ -1,4 +1,4 @@
-## <center>  Q2(4-7) PLAN
+## <center>  Q2(4-7)   PLAN
 |  |Project Title        | Description                      | Tags|
 |---|:----------------------:|:---------------------------------------------:|----------|
 | 1 | N2 | An important certification of Janpanese|  |  |🟢|
