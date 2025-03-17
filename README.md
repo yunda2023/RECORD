@@ -1,4 +1,8 @@
-## <center>  Q2(4-7)   PLAN
+## <center>   Annual Plan
+
+
+## <center>  Q2(4-7)   Plan
+
 |  |Project Title        | Description                      | Tags|
 |---|:----------------------:|:---------------------------------------------:|----------|
 | 1 | N2 | An important certification of Janpanese|  |  |🟢|
@@ -15,6 +19,12 @@
 ⚫ : Abandon <br>
 <br/><br/>
 
+
+
+## <center>  Week Plan
+
+
+## <center>  Day Plan
 
 | Day   | Date      | Task Description   |  Tags | Action Description|
 |-------|-----------|---------------------|--------|----|
