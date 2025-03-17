@@ -1,14 +1,13 @@
-## <center>Projects Undertaken /Longterm Task
-
+## <center> Q2(4-7) PLAN
 |  |Project Title        | Description                      | Tags|
 |---|:----------------------:|:---------------------------------------------:|----------|
 | 1 | N2 | An important certification of Janpanese|  |  |🟢|
 | 2 | 51SCM||  🟠|
 | 3 | STM32||🟠|
 |4| 7月小米/蔚来/抖音/大众/美团/B站 实习| |🟠|
-|5| 3个月集中学习完成term4的所有课程，问学长，问老师 |🟢|
-|6| 把关项目的所有细节：完成的具体步骤、具体的各个技术|🟢|
-|7|进入hfut-lion实验室|🟢|
+|5| 3个月集中学习完成term4的所有课程，问学长，问老师 ||🟢|
+|6| 把关项目的所有细节：完成的具体步骤、具体的各个技术||🟢|
+|7|进入hfut-lion实验室||🟢|
 
 🟠 : On Pause <br>
 🟢 : In Progress <br>
