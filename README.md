@@ -35,7 +35,7 @@
 |20|2025-3-21|整理Flomo|🟢|
 |19|2025-3-20|整理Flomo|🟢|
 |18|2025-3-19|整理Notion|🟢|
-|17|2025-3-18|整理tech article ,prothink , ai web group <br> learn chap2 of operation reserach1<br>复习昨天看的dan koe的视频，做些笔记，记录在obsdian md中|🟣<br>🟢||
+|17|2025-3-18|整理tech article ,prothink , ai web group <br> learn chap2 of operation reserach1<br>复习昨天看的dan koe的视频，做些笔记，记录在obsdian md中|🟣<br>🟢  🟢||
 |16|2025-3-17|整理CS WORK 网络安全 WEB GROUP|🟣|实际上的情况来看，整理的很快，而且需要看的内容都保留下来了
 |15|2025-3-16|
 |14|2025-3-15|
